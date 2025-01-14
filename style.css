@@ -1,0 +1,43 @@
+#input{
+  height: 55px;
+  width:41% ;
+  border-color: rgb(253, 33, 33);
+  margin-bottom: 30px ;
+  padding: block ;
+  border-color: black;
+  font-size: larger;
+}
+
+
+
+.button{
+  height:100px ;
+  width:100px ;
+  padding-left:15px ;
+  padding-top:15px ;  padding-right:15px ;  padding-bottom:15px ;
+  margin: top 15px; 
+  margin: left 15px; 
+  margin: bottom 15px; 
+  margin: right 15px; 
+  flex-wrap: wrap;
+  justify-content: center;
+  font-size: larger;
+}
+#calculator{
+  justify-content: center;
+  background-color: antiquewhite;
+  
+}
+.clearbutton {
+  height:100px ;
+  width:100px ;
+  padding-left:15px ;
+  padding-top:15px ;  padding-right:15px ;  padding-bottom:15px ;
+  margin: top 15px; 
+  margin: left 15px; 
+  margin: bottom 15px; 
+  margin: right 15px; 
+  flex-wrap: wrap;
+  justify-content: center;
+  font-size: larger;
+}
